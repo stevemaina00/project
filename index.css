@@ -10,7 +10,7 @@ html {
 body {
         margin:0 auto; padding:0px;
         background-color: #FAFAFA;
-        height: 2000px;
+        height: 3000px;
         width: 1000px; 
         border: 10px solid white;    
 }
@@ -147,10 +147,6 @@ h3{
                 float: left;
 }
    
-
-
-
-
 
       
      
